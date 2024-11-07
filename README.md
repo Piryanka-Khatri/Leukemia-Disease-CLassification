@@ -10,7 +10,7 @@ The task of identifying immature leukemic blasts from normal cells under the mic
 
 In total there are 15,135 images from 118 patients with two labelled classes:
 
-HEM (likely Hematology or Normal Cell);
+HEM (Hematology or Normal Cell);
 
 ALL (Acute lymphoblastic leukemia).
 
